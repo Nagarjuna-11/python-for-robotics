@@ -11,7 +11,7 @@ battery = 80
 
 if battery > 50:
     print("Battery level is good")
-
+   
 
 # ==================================================
 # 2. if-else Statement
