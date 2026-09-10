@@ -11,7 +11,7 @@ print("Simple For Loop")
 
 for i in range(5):
     print(i)
-
+      
 
 # ==================================================
 # 2. Printing Numbers from 1 to 10
