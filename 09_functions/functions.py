@@ -1,4 +1,4 @@
-# Functions in Python
+ # Functions in Python
 # Python for Robotics
 # Chapter 09: Functions
 
